@@ -1,0 +1,10 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\bin\Debug\3X.exe.config
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\bin\Debug\3X.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\bin\Debug\3X.pdb
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\bin\Debug\3X.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\_3X.Form1.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\_3X.Resources.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\3X.vbproj.GenerateResource.Cache
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\3X.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\3X.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3X\3X\obj\Debug\3X.pdb

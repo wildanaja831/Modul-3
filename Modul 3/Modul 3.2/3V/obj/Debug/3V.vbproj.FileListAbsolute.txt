@@ -1,0 +1,10 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\bin\Debug\3V.exe.config
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\_3V.Form1.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\_3V.Resources.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\3V.vbproj.GenerateResource.Cache
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\bin\Debug\3V.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\bin\Debug\3V.pdb
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\bin\Debug\3V.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\3V.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\3V.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3V\3V\obj\Debug\3V.pdb

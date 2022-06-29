@@ -1,0 +1,20 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3D\3D\bin\Debug\3D.exe.config
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\_3D.Form1.resources
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\_3D.Resources.resources
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\3D.vbproj.GenerateResource.Cache
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\bin\Debug\3D.exe
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\bin\Debug\3D.pdb
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\bin\Debug\3D.xml
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\3D.exe
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\3D.xml
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\3D\3D\obj\Debug\3D.pdb
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\bin\Debug\3D.exe.config
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\3D.exe
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\3D.xml
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\3D.pdb
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\bin\Debug\3D.exe
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\bin\Debug\3D.pdb
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\bin\Debug\3D.xml
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\_3D.Form1.resources
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\_3D.Resources.resources
+C:\Users\Aprillia T wulandari\Documents\Visual Studio 2013\Projects\Modul 3\3D\3D\obj\Debug\3D.vbproj.GenerateResource.Cache

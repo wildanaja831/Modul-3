@@ -1,0 +1,10 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Z\3Z\bin\Debug\3Z.exe.config
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\_3Z.Form1.resources
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\_3Z.Resources.resources
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\3Z.vbproj.GenerateResource.Cache
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\bin\Debug\3Z.exe
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\bin\Debug\3Z.pdb
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\bin\Debug\3Z.xml
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\3Z.exe
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\3Z.xml
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3Z\3Z\obj\Debug\3Z.pdb

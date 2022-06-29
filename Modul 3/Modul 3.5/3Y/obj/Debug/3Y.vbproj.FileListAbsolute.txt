@@ -1,0 +1,10 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\bin\Debug\3Y.exe.config
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\bin\Debug\3Y.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\bin\Debug\3Y.pdb
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\bin\Debug\3Y.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\_3Y.Form1.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\_3Y.Resources.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\3Y.vbproj.GenerateResource.Cache
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\3Y.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\3Y.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3Y\3Y\obj\Debug\3Y.pdb

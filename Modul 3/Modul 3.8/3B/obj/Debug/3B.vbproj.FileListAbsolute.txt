@@ -1,0 +1,22 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\bin\Debug\3B.exe.config
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\bin\Debug\3B.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\bin\Debug\3B.pdb
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\bin\Debug\3B.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\_3B.Form1.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\_3B.Resources.resources
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\3B.vbproj.GenerateResource.Cache
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\3B.exe
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\3B.xml
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3B\3B\obj\Debug\3B.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\bin\Debug\3B.exe.config
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\bin\Debug\3B.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\bin\Debug\3B.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\bin\Debug\3B.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.vbprojAssemblyReference.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\_3B.Form1.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\_3B.Resources.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.vbproj.GenerateResource.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.vbproj.CoreCompileInputs.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907272_Michael Danu EkklasiyaI_CISARUA 3_PEMDAS MODUL KE 3\Modul 3\3B\3B\obj\Debug\3B.pdb

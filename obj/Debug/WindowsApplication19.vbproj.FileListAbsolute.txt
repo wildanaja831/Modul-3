@@ -1,0 +1,40 @@
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe.config
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.exe
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.pdb
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\bin\Debug\WindowsApplication19.xml
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form1.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Resources.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.vbproj.GenerateResource.Cache
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.exe
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.xml
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.pdb
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form2.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form3.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form4.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form5.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form6.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form7.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form8.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form9.resources
+C:\Users\heri hermawan\Documents\Visual Studio 2013\Projects\WindowsApplication19\WindowsApplication19\obj\Debug\WindowsApplication19.Form10.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\bin\Debug\WindowsApplication19.exe.config
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\bin\Debug\WindowsApplication19.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\bin\Debug\WindowsApplication19.pdb
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\bin\Debug\WindowsApplication19.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.vbprojAssemblyReference.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form1.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form10.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form2.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form3.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form4.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form5.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form6.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form7.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form8.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Form9.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.Resources.resources
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.vbproj.GenerateResource.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.vbproj.CoreCompileInputs.cache
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.exe
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.xml
+C:\Users\Muhammad Wildan F\Documents\Tugas Saat LIbur\Tugas Pemdas\Tugas Icas\11907391_Muhammad Wildan Firdaus_RPL 10-1\obj\Debug\WindowsApplication19.pdb

@@ -1,0 +1,10 @@
+c:\users\aprillia t wulandari\documents\visual studio 2013\Projects\3W\3W\bin\Debug\3W.exe.config
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\bin\Debug\3W.exe
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\bin\Debug\3W.pdb
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\bin\Debug\3W.xml
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\_3W.Form1.resources
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\_3W.Resources.resources
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\3W.vbproj.GenerateResource.Cache
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\3W.exe
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\3W.xml
+C:\Users\Aprillia T wulandari\documents\visual studio 2013\Projects\3W\3W\obj\Debug\3W.pdb
